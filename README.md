@@ -1,6 +1,10 @@
 # janken
 
-A new Flutter project.
+解説されている機能に加えて前回学んだアイコンの作り方を使い、お気に入りの猿のぬいぐるみとじゃんけんできるようにアレンジした。
+
+フラッター大学③の作り方じゃんけんを作ろう。変数と関数と条件分岐。
+
+https://www.youtube.com/watch?v=uDoDwKNOX3E&list=PLuLRJz1UnJzEi2Ut24UtPlJfxGhqriFz7&index=3
 
 ## Getting Started
 
